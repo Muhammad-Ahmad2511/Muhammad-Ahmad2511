@@ -39,6 +39,11 @@
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server">
 </p>
 
+### 📜 Certifications:
+- [Kaggle: Intro to Programming](https://www.kaggle.com/learn/certification/muhammadahmadimran/intro-to-programming)
+- [HackerRank: Python (Basic)](https://www.hackerrank.com/certificates/iframe/e2b034a4e242)
+- [Kaggle: Pandas ](https://www.kaggle.com/learn/certification/muhammadahmadimran/pandas)
+- [Kaggle: Introduction to Programming Using Python ](https://www.kaggle.com/learn/certification/muhammadahmadimran/python)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-ahmad2511&show_icons=true&locale=en&layout=compact" alt="muhammad-ahmad2511" /></p>
 
