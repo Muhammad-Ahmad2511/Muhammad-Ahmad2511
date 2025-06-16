@@ -20,8 +20,8 @@
 </a>
 <a href="https://instagram.com/ahmadimran_6410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmadimran_6410" height="30" width="40" /></a>
 </p>
----
-##### 🛠️ Languages and Tools:
+
+### 🛠️ Languages and Tools:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -39,13 +39,13 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server">
 </p>
----
+
 ### 📜 Certifications:
 - [Kaggle: Intro to Programming](https://www.kaggle.com/learn/certification/muhammadahmadimran/intro-to-programming)
 - [HackerRank: Python (Basic)](https://www.hackerrank.com/certificates/iframe/e2b034a4e242)
 - [Kaggle: Pandas ](https://www.kaggle.com/learn/certification/muhammadahmadimran/pandas)
 - [Kaggle: Introduction to Programming Using Python ](https://www.kaggle.com/learn/certification/muhammadahmadimran/python)
----
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-ahmad2511&show_icons=true&locale=en&layout=compact" alt="muhammad-ahmad2511" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-ahmad2511&show_icons=true&locale=en" alt="muhammad-ahmad2511" /></p>
