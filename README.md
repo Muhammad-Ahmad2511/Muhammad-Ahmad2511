@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
 <h3 align="center">Passionate about Data Insights & Predictive Modeling</h3>
+
 ---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-ahmad2511&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-ahmad2511" /> </p>
 
 - 🌱 I’m currently learning **Data Science , Machine Learning and it's tools**
@@ -9,6 +11,7 @@
 
 - ⚡ Fun fact **I write code for fun, but bugs for free!**
 - ---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,6 +23,8 @@
 </a>
 <a href="https://instagram.com/ahmadimran_6410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmadimran_6410" height="30" width="40" /></a>
 </p>
+
+---
 
 ### 🛠️ Languages and Tools:
 
