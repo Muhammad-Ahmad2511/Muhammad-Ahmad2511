@@ -45,6 +45,8 @@
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server">
 </p>
 
+---
+
 ### 📜 Certifications:
 - [Kaggle: Intro to Programming](https://www.kaggle.com/learn/certification/muhammadahmadimran/intro-to-programming)
 - [HackerRank: Python (Basic)](https://www.hackerrank.com/certificates/iframe/e2b034a4e242)
