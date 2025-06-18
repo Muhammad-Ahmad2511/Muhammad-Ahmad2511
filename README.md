@@ -22,6 +22,9 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hafiz Muhammad Ahmad" height="30" width="40" />
 </a>
 <a href="https://instagram.com/ahmadimran_6410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmadimran_6410" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/23L-2511/" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
+</a>  
 </p>
 
 ---
