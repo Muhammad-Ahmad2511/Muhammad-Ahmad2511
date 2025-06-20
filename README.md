@@ -23,7 +23,7 @@
 </a>
 <a href="https://instagram.com/ahmadimran_6410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmadimran_6410" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/23L-2511/" target="_blank">
-  <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg](https://www.google.com/imgres?q=leetcode&imgurl=https%3A%2F%2Fraw.githubusercontent.com%2FLeetCode-OpenSource%2Fvscode-leetcode%2Fmaster%2Fresources%2FLeetCode.png&imgrefurl=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3DLeetCode.vscode-leetcode&docid=96Q8OyvXNQPUSM&tbnid=C4OTHoKpruq13M&vet=12ahUKEwi-neLZioCOAxXf-QIHHSH1B58QM3oECBoQAA..i&w=155&h=168&hcb=2&ved=2ahUKEwi-neLZioCOAxXf-QIHHSH1B58QM3oECBoQAA)" alt="LeetCode" height="30" width="40" />
+  <img align="center" src="https://www.google.com/imgres?q=leetcode&imgurl=https%3A%2F%2Fraw.githubusercontent.com%2FLeetCode-OpenSource%2Fvscode-leetcode%2Fmaster%2Fresources%2FLeetCode.png&imgrefurl=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3DLeetCode.vscode-leetcode&docid=96Q8OyvXNQPUSM&tbnid=C4OTHoKpruq13M&vet=12ahUKEwi-neLZioCOAxXf-QIHHSH1B58QM3oECBoQAA..i&w=155&h=168&hcb=2&ved=2ahUKEwi-neLZioCOAxXf-QIHHSH1B58QM3oECBoQAA" alt="LeetCode" height="30" width="40" />
 </a>
 </p>
 
