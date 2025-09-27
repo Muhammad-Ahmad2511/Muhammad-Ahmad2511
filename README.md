@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mahmadimran383@gmail.com**
 
-- ⚡ Fun fact **I write code for fun, but bugs for free!**
+- ⚡Motivation **Always wanted to learn and contribute to solve real world problems **
 - ---
 
 
