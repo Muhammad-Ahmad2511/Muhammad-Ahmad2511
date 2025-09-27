@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mahmadimran383@gmail.com**
 
-- ⚡Motivation  **Always wanted to learn and contribute to solve real world problems**
+- ⚡***Passionate about learning and applying my skills to real-world challenges***
 - ---
 
 
