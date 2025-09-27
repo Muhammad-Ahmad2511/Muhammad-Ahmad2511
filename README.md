@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mahmadimran383@gmail.com**
 
-- ⚡***Passionate about learning and applying my skills to real-world challenges***
+- ⚡**Passionate about learning and applying my skills to real-world challenges**
 - ---
 
 
