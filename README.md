@@ -38,7 +38,12 @@ const whoIAm = {
     "Retail Inventory Analytics & Business Intelligence",
     "Real-Time MERN Chat Infrastructure"
   ],
-  certifications: [], // none listed yet
+  certifications: [
+    "Kaggle: Intro to Programming",
+    "HackerRank: Python (Basic)",
+    "Kaggle: Pandas",
+    "Kaggle: Introduction to Programming Using Python"
+  ],
   status: "Building AI-powered apps, RAG systems, and full-stack platforms",
   openTo: ["Full-time Roles", "Internships"]
 };
@@ -172,6 +177,15 @@ const whoIAm = {
 
 ---
 
+## 📜 Certifications
+
+- [Kaggle: Intro to Programming](https://www.kaggle.com/learn/certification/muhammadahmadimran/intro-to-programming)
+- [HackerRank: Python (Basic)](https://www.hackerrank.com/certificates/iframe/e2b034a4e242)
+- [Kaggle: Pandas](https://www.kaggle.com/learn/certification/muhammadahmadimran/pandas)
+- [Kaggle: Introduction to Programming Using Python](https://www.kaggle.com/learn/certification/muhammadahmadimran/python)
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -188,7 +202,7 @@ const whoIAm = {
 
 **AI / ML / Databases**
 
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,mongodb,postgresql" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,opencv,selenium,mongodb,postgresql" />
 
 **Dev Tools**
 
@@ -219,6 +233,18 @@ const whoIAm = {
 
 <a href="https://www.linkedin.com/in/hafiz-muhammad-ahmad-b76304273/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7dd3fc" alt="LinkedIn"/>
+</a>
+<a href="mailto:mahmadimran383@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7dd3fc" alt="Email"/>
+</a>
+<a href="https://leetcode.com/u/23L-2511/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=7dd3fc" alt="LeetCode"/>
+</a>
+<a href="https://www.facebook.com/hafiz.muhammad.ahmad.941241/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=7dd3fc" alt="Facebook"/>
+</a>
+<a href="https://www.instagram.com/ahmii__fl0w13/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=7dd3fc" alt="Instagram"/>
 </a>
 
 </div>
