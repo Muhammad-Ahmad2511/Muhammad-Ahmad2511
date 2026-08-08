@@ -23,10 +23,12 @@
 const whoIAm = {
   title: "AI/ML Engineer — BS Data Science Student",
   stack: [
-    "Python", "C++", "C#", "SQL",
+    "Python", "C++", "C", "C#", "JavaScript", "SQL",
     "PyTorch", "Scikit-learn", "LightGBM", "XGBoost",
     "Hugging Face", "Transformers", "LangChain", "RAG", "Pinecone", "ChromaDB",
-    "Node.js", "Express.js", "React", "Socket.io", "MongoDB", "PostgreSQL",
+    "Node.js", "Express.js", "React", "Socket.io", "Tailwind CSS",
+    "MongoDB", "PostgreSQL", "SQL Server",
+    "Vercel", "Railway", "Figma", "Vite",
     "Power BI", "Streamlit"
   ],
   launchedProjects: [
@@ -190,7 +192,7 @@ const whoIAm = {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,py" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js" />
 
 **Backend & Infra**
 
@@ -198,17 +200,25 @@ const whoIAm = {
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
 
 **AI / ML / Databases**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,selenium,mongodb,postgres" />
+<br/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+
+**Deployment & Design**
+
+<img src="https://skillicons.dev/icons?i=vercel,vite,figma" />
+<br/>
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
 
 **Dev Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 
-> Note: Socket.io, Jupyter, and Pandas don't have icons on skillicons.dev yet (that's what caused the blank gaps before) — they're covered in the project tech tables above instead.
+> Note: skillicons.dev has no icon yet for Socket.io, Jupyter, Pandas, Railway, or SQL Server — Railway and SQL Server are shown above as shields.io badges instead; the other three are covered in the project tech tables.
 
 ---
 
@@ -227,8 +237,8 @@ const whoIAm = {
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Ahmad2511&theme=nord_dark" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmad2511&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="Detailed GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmad2511&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmad2511&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&cache_seconds=86400" alt="Detailed GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmad2511&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&cache_seconds=86400" alt="Top Languages" width="45%"/>
 
 <img src="https://streak-stats.demolab.com/?user=Muhammad-Ahmad2511&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
 
@@ -237,6 +247,59 @@ const whoIAm = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ahmad2511&theme=nord&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Contribution Activity Graph" width="90%"/>
 
 </div>
+
+> ⚠️ **If any card above shows as a plain blue link instead of an image:** the free shared `vercel.app` instances behind these cards rate-limit under heavy traffic — this is a widely-reported issue with these tools, not a bug in this file. It usually resolves itself within an hour; refreshing the GitHub page often fixes it immediately. The `cache_seconds=86400` param above reduces how often that happens. For a permanent fix, you can self-host `github-readme-stats` on your own free Vercel account with your own token — [self-hosting guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance).
+
+---
+
+## 🐍 Contribution Snake
+
+Unlike the widgets above, the snake animation can't be embedded with a plain URL — GitHub Actions has to generate it from your live contribution graph and commit it to a branch in your own repo. Here's the setup:
+
+**1. In your `Muhammad-Ahmad2511/Muhammad-Ahmad2511` repo**, create `.github/workflows/snake.yml` with:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs once a day
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Muhammad-Ahmad2511
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**2. Run it once manually** (Actions tab → "Generate Snake Animation" → Run workflow) so the `output` branch exists.
+
+**3. Add this to your README** wherever you'd like the snake to appear:
+
+```markdown
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Ahmad2511/Muhammad-Ahmad2511/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Ahmad2511/Muhammad-Ahmad2511/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Muhammad-Ahmad2511/Muhammad-Ahmad2511/output/github-contribution-grid-snake.svg" />
+</picture>
+```
+
+It updates automatically once a day after that.
 
 ---
 
