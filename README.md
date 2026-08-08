@@ -55,129 +55,98 @@ const whoIAm = {
 
 ## 🚀 Featured Projects
 
-### 🔹 PakWheels Used Car Price Predictor
-> Built an AI-powered price prediction system for Pakistan's used car market featuring Explainable AI (XAI) via SHAP integration and real-time data scraping from PakWheels.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ahmad2511&repo=used-car-price-predictor&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="PakWheels Used Car Price Predictor"/>
-
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| Modeling | LightGBM |
-| Explainability | SHAP |
-| Interface | Streamlit |
-
-🔗 [Code](https://github.com/Muhammad-Ahmad2511/used-car-price-predictor)
-
----
-
-### 🔹 AI-Powered Support Ticket Triage System
-> Built an end-to-end automation pipeline utilizing a local ChromaDB-backed RAG architecture and structured Prompt Engineering to dynamically classify support tickets and generate grounded draft responses.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ahmad2511&repo=support-triage-project&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="AI-Powered Support Ticket Triage System"/>
-
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| Backend | Flask |
-| Vector DB | ChromaDB |
-| LLM | Llama 3.3 (Groq API) |
-
-🔗 [Code](https://github.com/Muhammad-Ahmad2511/support-triage-project)
-
----
-
-### 🔹 Emotion Detection in Social Media Text using Small LLMs
-> Conducted a systematic comparison of zero-shot, few-shot, and fine-tuning prompt strategies for multi-class emotion detection on Google's GoEmotions dataset using models under 500M parameters.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ahmad2511&repo=emotion-detection-small-llms&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Emotion Detection in Social Media Text using Small LLMs"/>
-
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| Deep Learning | PyTorch |
-| Models | HuggingFace Transformers, Flan-T5, DistilBERT |
-
-🔗 [Code](https://github.com/Muhammad-Ahmad2511/emotion-detection-small-llms)
-
----
-
-### 🔹 Sales Trend Analysis — Superstore Dataset
-> Performed end-to-end time-series analysis and forecasting on retail transactions to isolate seasonal patterns, moving average demand trends, and regional performance.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ahmad2511&repo=sales-trend-analysis&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Sales Trend Analysis — Superstore Dataset"/>
-
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| Analysis | STL Decomposition, ACF/PACF |
-| Libraries | Statsmodels, Scikit-learn |
-
-🔗 [Code](https://github.com/Muhammad-Ahmad2511/sales-trend-analysis)
-
----
-
-### 🔹 Electronics Inventory Management Dashboard
-> Designed an interactive dashboard displaying stock levels, shortages, and inventory trends for data-driven decision making.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ahmad2511&repo=Electronics-Inventory-Management-Dashboard&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Electronics Inventory Management Dashboard"/>
-
-| Layer | Technology |
-|---|---|
-| BI Tool | Power BI |
-
-🔗 [Code](https://github.com/Muhammad-Ahmad2511/Electronics-Inventory-Management-Dashboard)
-
----
-
-### 🔹 Retail Inventory Analytics & Business Intelligence
-> Designed a data warehouse and BI solution to analyze retail sales, inventory levels, pricing, discounts, seasonality, and regional performance using ETL pipelines and interactive dashboards.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ahmad2511&repo=retail-inventory-analytics-bi&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Retail Inventory Analytics & Business Intelligence"/>
-
-| Layer | Technology |
-|---|---|
-| Data Pipeline | ETL |
-| Storage | Data Warehousing |
-| Visualization | BI Dashboards |
-
-🔗 [Code](https://github.com/Muhammad-Ahmad2511/retail-inventory-analytics-bi)
-
----
-
-### 🔹 Real-Time MERN Chat Infrastructure
-> Engineered a decoupled full-stack chat application from scratch to establish core bi-directional communication channels, serving as the foundational architectural layer for upcoming enterprise RAG systems.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ahmad2511&repo=DevNauts-Training&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Real-Time MERN Chat Infrastructure"/>
-
-| Layer | Technology |
-|---|---|
-| Database | MongoDB |
-| Backend | Express.js, Node.js |
-| Frontend | React |
-| Real-time | Socket.io |
-| Auth | JWT |
-
-🔗 [Code](https://github.com/Muhammad-Ahmad2511/DevNauts-Training)
-
----
-
-### 🔹 DevNauts AI Proposal Builder (In Progress)
-> Building a chat-based proposal generation tool that combines RAG over a project knowledge base with a tone-tuned model to draft client proposals from a brief in DevNauts' writing voice.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=idreesahmed1257&repo=uw-proposal-builder&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="DevNauts AI Proposal Builder"/>
-
-| Layer | Technology |
-|---|---|
-| Runtime | Node.js |
-| Orchestration | LangChain.js |
-| Vector DB | Pinecone |
-| LLM | Groq (Llama 4 Scout) |
-| Techniques | RAG, Fine-Tuning |
-
-🔗 [Code](https://github.com/idreesahmed1257/uw-proposal-builder)
-
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 <a href="https://github.com/Muhammad-Ahmad2511/used-car-price-predictor">PakWheels Used Car Price Predictor</a></h3>
+      <p>Built an AI-powered price prediction system for Pakistan's used car market featuring Explainable AI (XAI) via SHAP integration and real-time data scraping from PakWheels.</p>
+      <p>
+        <code>Python</code>
+        <code>LightGBM</code>
+        <code>SHAP</code>
+        <code>Streamlit</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎫 <a href="https://github.com/Muhammad-Ahmad2511/support-triage-project">AI-Powered Support Ticket Triage System</a></h3>
+      <p>Built an end-to-end automation pipeline utilizing a local ChromaDB-backed RAG architecture and structured Prompt Engineering to dynamically classify support tickets and generate draft responses.</p>
+      <p>
+        <code>Python</code>
+        <code>Flask</code>
+        <code>ChromaDB</code>
+        <code>Llama 3.3</code>
+        <code>Groq API</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎭 <a href="https://github.com/Muhammad-Ahmad2511/emotion-detection-small-llms">Emotion Detection in Social Media Text</a></h3>
+      <p>Conducted a systematic comparison of zero-shot, few-shot, and fine-tuning prompt strategies for multi-class emotion detection on Google's GoEmotions dataset using models under 500M parameters.</p>
+      <p>
+        <code>Python</code>
+        <code>PyTorch</code>
+        <code>HuggingFace</code>
+        <code>Flan-T5</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/Muhammad-Ahmad2511/sales-trend-analysis">Sales Trend Analysis — Superstore Dataset</a></h3>
+      <p>Performed end-to-end time-series analysis and forecasting on retail transactions to isolate seasonal patterns, moving average demand trends, and regional performance.</p>
+      <p>
+        <code>Python</code>
+        <code>Statsmodels</code>
+        <code>Scikit-learn</code>
+        <code>STL Decomposition</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/Muhammad-Ahmad2511/Electronics-Inventory-Management-Dashboard">Electronics Inventory Management Dashboard</a></h3>
+      <p>Designed an interactive dashboard displaying stock levels, shortages, and inventory trends for data-driven decision making.</p>
+      <br/>
+      <p>
+        <code>Power BI</code>
+        <code>Data Visualization</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏬 <a href="https://github.com/Muhammad-Ahmad2511/retail-inventory-analytics-bi">Retail Inventory Analytics & Business Intelligence</a></h3>
+      <p>Designed a data warehouse and BI solution to analyze retail sales, inventory levels, pricing, discounts, seasonality, and regional performance using ETL pipelines and interactive dashboards.</p>
+      <p>
+        <code>ETL</code>
+        <code>Data Warehousing</code>
+        <code>BI Dashboards</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 <a href="https://github.com/Muhammad-Ahmad2511/DevNauts-Training">Real-Time MERN Chat Infrastructure</a></h3>
+      <p>Engineered a decoupled full-stack chat application from scratch to establish core bi-directional communication channels, serving as the foundational architectural layer for enterprise RAG systems.</p>
+      <p>
+        <code>MongoDB</code>
+        <code>Express.js</code>
+        <code>React</code>
+        <code>Node.js</code>
+        <code>Socket.io</code>
+        <code>JWT</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📝 <a href="https://github.com/idreesahmed1257/uw-proposal-builder">DevNauts AI Proposal Builder</a> <em>(In Progress)</em></h3>
+      <p>Building a chat-based proposal generation tool that combines RAG over a project knowledge base with a tone-tuned model to draft client proposals from a brief in DevNauts' writing voice.</p>
+      <p>
+        <code>Node.js</code>
+        <code>LangChain.js</code>
+        <code>Pinecone</code>
+        <code>Groq</code>
+        <code>RAG</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 📜 Certifications
 
