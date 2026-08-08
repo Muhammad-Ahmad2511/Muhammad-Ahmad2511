@@ -125,13 +125,6 @@
   </tr>
 </table>
 
-## 📜 Certifications
-
-- [Kaggle: Intro to Programming](https://www.kaggle.com/learn/certification/muhammadahmadimran/intro-to-programming)
-- [HackerRank: Python (Basic)](https://www.hackerrank.com/certificates/iframe/e2b034a4e242)
-- [Kaggle: Pandas](https://www.kaggle.com/learn/certification/muhammadahmadimran/pandas)
-- [Kaggle: Introduction to Programming Using Python](https://www.kaggle.com/learn/certification/muhammadahmadimran/python)
-
 ---
 
 ## 🛠️ Tech Stack
@@ -139,7 +132,7 @@
 <table>
   <tr>
     <td width="30%"><strong>Languages</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js" alt="Languages"/></td>
+    <td><img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css" alt="Languages"/></td>
   </tr>
   <tr>
     <td><strong>Frontend</strong></td>
@@ -150,8 +143,14 @@
     <td><img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend"/></td>
   </tr>
   <tr>
-    <td><strong>AI / ML & Data</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,selenium,mongodb,postgres" alt="AI ML Databases"/></td>
+    <td><strong>AI / ML & Vector DBs</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,selenium,pinecone,mongodb,postgres" alt="AI ML Databases"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/ChromaDB-3178C6?style=flat-square&logo=database&logoColor=white" alt="ChromaDB"/>
+      <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain"/>
+      <img src="https://img.shields.io/badge/Groq-F05032?style=flat-square&logo=fastapi&logoColor=white" alt="Groq"/>
+    </td>
   </tr>
   <tr>
     <td><strong>Deployment & Tools</strong></td>
@@ -163,6 +162,16 @@
     </td>
   </tr>
 </table>
+
+---
+## 📜 Certifications
+
+- [Kaggle: Intro to Programming](https://www.kaggle.com/learn/certification/muhammadahmadimran/intro-to-programming)
+- [HackerRank: Python (Basic)](https://www.hackerrank.com/certificates/iframe/e2b034a4e242)
+- [Kaggle: Pandas](https://www.kaggle.com/learn/certification/muhammadahmadimran/pandas)
+- [Kaggle: Introduction to Programming Using Python](https://www.kaggle.com/learn/certification/muhammadahmadimran/python)
+
+---
 
 ## 📊 GitHub Stats
 
