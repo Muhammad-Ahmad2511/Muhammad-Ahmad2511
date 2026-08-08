@@ -19,37 +19,14 @@
 
 ## 👤 Who I Am
 
-```typescript
-const whoIAm = {
-  title: "AI/ML Engineer — BS Data Science Student",
-  stack: [
-    "Python", "C++", "C", "C#", "JavaScript", "SQL",
-    "PyTorch", "Scikit-learn", "LightGBM", "XGBoost",
-    "Hugging Face", "Transformers", "LangChain", "RAG", "Pinecone", "ChromaDB",
-    "Node.js", "Express.js", "React", "Socket.io", "Tailwind CSS",
-    "MongoDB", "PostgreSQL", "SQL Server",
-    "Vercel", "Railway", "Figma", "Vite",
-    "Power BI", "Streamlit"
-  ],
-  launchedProjects: [
-    "PakWheels Used Car Price Predictor",
-    "AI-Powered Support Ticket Triage System",
-    "Emotion Detection in Social Media Text using Small LLMs",
-    "Sales Trend Analysis — Superstore Dataset",
-    "Electronics Inventory Management Dashboard",
-    "Retail Inventory Analytics & Business Intelligence",
-    "Real-Time MERN Chat Infrastructure"
-  ],
-  certifications: [
-    "Kaggle: Intro to Programming",
-    "HackerRank: Python (Basic)",
-    "Kaggle: Pandas",
-    "Kaggle: Introduction to Programming Using Python"
-  ],
-  status: "Building AI-powered apps, RAG systems, and full-stack platforms",
-  openTo: ["Full-time Roles", "Internships"]
-};
-```
+| Field | Details |
+| :--- | :--- |
+| **Role** | AI/ML Engineer & Full-Stack Developer (*BS Data Science @ FAST NUCES*) |
+| **Core Focus** | Building AI-powered apps, RAG architectures, and full-stack systems |
+| **Tech Stack** | **Languages:** Python, JavaScript, C++, C, SQL <br/> **AI/ML/RAG:** PyTorch, HuggingFace, LangChain, Pinecone, ChromaDB, Groq <br/> **Web/DB:** React, Node.js, Express, MongoDB, PostgreSQL, Tailwind |
+| **Projects** | DevNauts AI Proposal Builder, Support Ticket Triage RAG, PakWheels XAI Predictor, Emotion Detection LLMs, Sales Forecasting, Real-Time MERN Chat |
+| **Certifications** | Kaggle (Pandas, Intro to Programming), HackerRank (Python Basic) |
+| **Open To** | Full-time Roles, AI/ML Internships |
 
 ---
 
