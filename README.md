@@ -190,11 +190,11 @@ const whoIAm = {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,csharp,python" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py" />
 
 **Backend & Infra**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,socketio,flask" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 
 **Frontend**
 
@@ -202,11 +202,13 @@ const whoIAm = {
 
 **AI / ML / Databases**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,opencv,selenium,mongodb,postgresql" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,selenium,mongodb,postgres" />
 
 **Dev Tools**
 
-<img src="https://skillicons.dev/icons?i=jupyter,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+
+> Note: Socket.io, Jupyter, and Pandas don't have icons on skillicons.dev yet (that's what caused the blank gaps before) — they're covered in the project tech tables above instead.
 
 ---
 
@@ -214,7 +216,18 @@ const whoIAm = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmad2511&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Stats" width="49%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Ahmad2511&theme=nord_dark" alt="Profile Details"/>
+
+<br/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Ahmad2511&theme=nord_dark" alt="My Programming Languages" width="49%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Ahmad2511&theme=nord_dark" alt="Top Languages by Commits" width="49%"/>
+
+<br/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Ahmad2511&theme=nord_dark" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmad2511&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="Detailed GitHub Stats" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmad2511&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" width="45%"/>
 
 <img src="https://streak-stats.demolab.com/?user=Muhammad-Ahmad2511&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
