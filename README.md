@@ -159,37 +159,33 @@ const whoIAm = {
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js" />
-
-**Backend & Infra**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
-
-**AI / ML / Databases**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,selenium,mongodb,postgres" />
-<br/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-
-**Deployment & Design**
-
-<img src="https://skillicons.dev/icons?i=vercel,vite,figma" />
-<br/>
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
-
-**Dev Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
-
-> Note: skillicons.dev has no icon yet for Socket.io, Jupyter, Pandas, Railway, or SQL Server — Railway and SQL Server are shown above as shields.io badges instead; the other three are covered in the project tech tables.
-
----
+<table>
+  <tr>
+    <td width="30%"><strong>Languages</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js" alt="Languages"/></td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=react,tailwind,vite" alt="Frontend"/></td>
+  </tr>
+  <tr>
+    <td><strong>Backend & Infra</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend"/></td>
+  </tr>
+  <tr>
+    <td><strong>AI / ML & Data</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,selenium,mongodb,postgres" alt="AI ML Databases"/></td>
+  </tr>
+  <tr>
+    <td><strong>Deployment & Tools</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vercel,figma" alt="Tools"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+      <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"/>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
