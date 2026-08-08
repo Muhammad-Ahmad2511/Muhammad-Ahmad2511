@@ -235,8 +235,8 @@ const whoIAm = {
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmad2511&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="Detailed GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmad2511&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Muhammad-Ahmad2511&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="Detailed GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muhammad-Ahmad2511&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" width="49%"/>
 
 <br/><br/>
 
@@ -247,8 +247,6 @@ const whoIAm = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ahmad2511&theme=nord&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Contribution Activity Graph" width="100%"/>
 
 </div>
-
-> ⚠️ **If any card above shows as a plain blue link instead of an image:** the free shared `vercel.app` instances behind these cards rate-limit under heavy traffic — this is a widely-reported issue with these tools, not a bug in this file. It usually resolves itself within an hour; refreshing the GitHub page often fixes it immediately. The `cache_seconds=86400` param above reduces how often that happens. For a permanent fix, you can self-host `github-readme-stats` on your own free Vercel account with your own token — [self-hosting guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance).
 
 ---
 
