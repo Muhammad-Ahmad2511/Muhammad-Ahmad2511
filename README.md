@@ -253,53 +253,11 @@ const whoIAm = {
 ---
 
 ## 🐍 Contribution Snake
-
-Unlike the widgets above, the snake animation can't be embedded with a plain URL — GitHub Actions has to generate it from your live contribution graph and commit it to a branch in your own repo. Here's the setup:
-
-**1. In your `Muhammad-Ahmad2511/Muhammad-Ahmad2511` repo**, create `.github/workflows/snake.yml` with:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # runs once a day
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Muhammad-Ahmad2511
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**2. Run it once manually** (Actions tab → "Generate Snake Animation" → Run workflow) so the `output` branch exists.
-
-**3. Add this to your README** wherever you'd like the snake to appear:
-
-```markdown
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Ahmad2511/Muhammad-Ahmad2511/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Ahmad2511/Muhammad-Ahmad2511/output/github-contribution-grid-snake.svg" />
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Muhammad-Ahmad2511/Muhammad-Ahmad2511/output/github-contribution-grid-snake.svg" />
 </picture>
-```
-
-It updates automatically once a day after that.
 
 ---
 
