@@ -135,7 +135,7 @@ const whoIAm = {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📝 <a href="https://github.com/idreesahmed1257/uw-proposal-builder">DevNauts AI Proposal Builder</a> <em>(In Progress)</em></h3>
+      <h3>📝 <a href="https://github.com/idreesahmed1257/uw-proposal-builder">DevNauts AI Proposal Builder</a> </h3>
       <p>Building a chat-based proposal generation tool that combines RAG over a project knowledge base with a tone-tuned model to draft client proposals from a brief in DevNauts' writing voice.</p>
       <p>
         <code>Node.js</code>
