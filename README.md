@@ -145,8 +145,9 @@
   <tr>
     <td><strong>AI / ML & Vector DBs</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,selenium,pinecone,mongodb,postgres" alt="AI ML Databases"/>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,selenium,mongodb,postgres" alt="AI ML Databases"/>
       <br/><br/>
+      <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone"/>
       <img src="https://img.shields.io/badge/ChromaDB-3178C6?style=flat-square&logo=database&logoColor=white" alt="ChromaDB"/>
       <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain"/>
       <img src="https://img.shields.io/badge/Groq-F05032?style=flat-square&logo=fastapi&logoColor=white" alt="Groq"/>
