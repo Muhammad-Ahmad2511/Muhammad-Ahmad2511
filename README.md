@@ -226,25 +226,25 @@ const whoIAm = {
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Ahmad2511&theme=nord_dark" alt="Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Ahmad2511&theme=nord_dark" alt="Profile Details"/>
 
-<br/>
+<br/><br/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Ahmad2511&theme=nord_dark" alt="My Programming Languages" width="49%"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Ahmad2511&theme=nord_dark" alt="Top Languages by Commits" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Ahmad2511&theme=nord_dark" alt="My Programming Languages" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Ahmad2511&theme=nord_dark" alt="Top Languages by Commits" width="49%"/>
 
-<br/>
+<br/><br/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Ahmad2511&theme=nord_dark" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmad2511&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="Detailed GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmad2511&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmad2511&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&cache_seconds=86400" alt="Detailed GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmad2511&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&cache_seconds=86400" alt="Top Languages" width="45%"/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Muhammad-Ahmad2511&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Muhammad-Ahmad2511&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ahmad2511&no-frame=true&no-bg=true&theme=nord&margin-w=8" alt="GitHub Trophies"/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ahmad2511&theme=nord&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Contribution Activity Graph" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ahmad2511&theme=nord&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Contribution Activity Graph" width="100%"/>
 
 </div>
 
