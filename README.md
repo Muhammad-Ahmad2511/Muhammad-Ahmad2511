@@ -211,7 +211,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/hafiz-muhammad-ahmad-b76304273/">
+<a href="https://www.linkedin.com/in/muhammadahmad1320/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7dd3fc" alt="LinkedIn"/>
 </a>
 <a href="mailto:mahmadimran383@gmail.com">
