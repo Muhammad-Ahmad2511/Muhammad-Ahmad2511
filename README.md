@@ -126,40 +126,73 @@
 </table>
 
 ---
-
 ## 🛠️ Tech Stack
 
 <table>
   <tr>
     <td width="30%"><strong>Languages</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css" alt="Languages"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css" height="48" alt="Languages"/>
+    </td>
   </tr>
   <tr>
     <td><strong>Frontend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=react,tailwind,vite" alt="Frontend"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,vite" height="48" alt="Frontend"/>
+    </td>
   </tr>
   <tr>
     <td><strong>Backend & Infra</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,flask" height="48" alt="Backend"/>
+    </td>
   </tr>
   <tr>
     <td><strong>AI / ML & Vector DBs</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,selenium,mongodb,postgres" alt="AI ML Databases"/>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,selenium,mongodb,postgres" height="48" alt="AI ML Databases"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone"/>
-      <img src="https://img.shields.io/badge/ChromaDB-3178C6?style=flat-square&logo=database&logoColor=white" alt="ChromaDB"/>
-      <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain"/>
-      <img src="https://img.shields.io/badge/Groq-F05032?style=flat-square&logo=fastapi&logoColor=white" alt="Groq"/>
+      <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
+      <img src="https://img.shields.io/badge/ChromaDB-3178C6?style=for-the-badge&logo=database&logoColor=white" alt="ChromaDB"/>
+      <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+      <img src="https://img.shields.io/badge/Groq-F05032?style=for-the-badge&logo=fastapi&logoColor=white" alt="Groq"/>
     </td>
   </tr>
   <tr>
     <td><strong>Deployment & Tools</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vercel,figma" alt="Tools"/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vercel,figma" height="48" alt="Tools"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-      <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"/>
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+      <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>MLOps / Cloud</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,prometheus,grafana,githubactions,aws" height="48" alt="Infra"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
+      <img src="https://img.shields.io/badge/Pandera-4B5563?style=for-the-badge" alt="Pandera"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+      <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
+      <img src="https://img.shields.io/badge/DagsHub-20BEFF?style=for-the-badge&logo=dagshub&logoColor=white" alt="DagsHub"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
+      <img src="https://img.shields.io/badge/Kubeflow%20Pipelines-326CE5?style=for-the-badge&logo=kubeflow&logoColor=white" alt="Kubeflow Pipelines"/>
+      <img src="https://img.shields.io/badge/BentoML-000000?style=for-the-badge&logo=bentoml&logoColor=white" alt="BentoML"/>
+      <img src="https://img.shields.io/badge/Feast-00A98F?style=for-the-badge&logo=feast&logoColor=white" alt="Feast"/>
+      <img src="https://img.shields.io/badge/kind-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kind"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn"/>
+      <img src="https://img.shields.io/badge/ECS%20%2F%20Fargate-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" alt="ECS / Fargate"/>
+      <img src="https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="ECR"/>
+      <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch"/>
+      <img src="https://img.shields.io/badge/IAM%20%2F%20OIDC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="IAM OIDC"/>
+      <img src="https://img.shields.io/badge/Secrets%20Manager-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Secrets Manager"/>
     </td>
   </tr>
 </table>
